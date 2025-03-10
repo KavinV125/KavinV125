@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavinv006@gmail.com) 
 
-# 💻 Tech Stack:
+# 💻 Electronics Stack:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kavinv125&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
